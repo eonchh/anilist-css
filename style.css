@@ -3,6 +3,12 @@ body {
     background: rgb(var(--color-background)) url("https://cdn.discordapp.com/attachments/641780825213632536/699623942746275840/K_1_-_Part_3_-_Complete.jpg") center/100% fixed
 }
 
+/* Transparent banner - use together with background image */
+.banner[data-v-5445dac8] {
+    background-image: none !important;
+    background-color: rgb(36,37,56,0);
+}
+
 /* Small avatar -> circle frame */
 .text .avatar[data-v-568e7548]  {
     border-radius: 100%;
