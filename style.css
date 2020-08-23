@@ -20,12 +20,12 @@ body {
 }
 
 /* Comments section avatar -> circle frame */
-.avatar[data-v-0bf5aadf]  {
+.avatar[data-v-5a191921]  {
     border-radius: 100%;
     transition: transform .2s;
 }
 /* Comments section avatar hover */
-.avatar[data-v-0bf5aadf]:hover {
+.avatar[data-v-5a191921]:hover {
     transform: scale(6);
 }
 
