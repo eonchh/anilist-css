@@ -10,12 +10,12 @@ body {
 }
 
 /* Small avatar -> circle frame */
-.text .avatar[data-v-568e7548]  {
+.text .avatar[data-v-5e514b1e]  {
     border-radius: 100%;
     transition: transform .2s;
 }
 /* Small avatar hover */
-.text .avatar[data-v-568e7548]:hover  {
+.text .avatar[data-v-5e514b1e]:hover  {
     transform: scale(4);
 }
 
@@ -55,12 +55,12 @@ body {
 }
 
 /* Profile activity (status/messages/list) Makes border corners rounded. Also required as bugfix for .avatar hover! */
-.wrap[data-v-568e7548] {
+.wrap[data-v-5e514b1e] {
     border-radius: 20px;
     overflow: visible;
 }
 /* Anime/manga displaying rounded corners, part 2 */
-.cover[data-v-568e7548]{
+.cover[data-v-5e514b1e]{
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
