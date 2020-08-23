@@ -30,12 +30,12 @@ body {
 }
 
 /* favourites section */
-.favourite[data-v-4dea9e03] {
+.favourite[data-v-45543a61] {
     transition: transform .2s;
     border-radius: 20%;
 }
 /* favourites section hover */
-.favourite[data-v-4dea9e03]:hover {
+.favourite[data-v-45543a61]:hover {
     transform: scale(1.6);
 }
 /*  favourites section bugfix */
