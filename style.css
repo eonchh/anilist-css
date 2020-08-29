@@ -1,6 +1,8 @@
 /* Background image (change the URL to change the image) */
 body {
-    background: rgb(var(--color-background)) url("https://cdn.discordapp.com/attachments/641780825213632536/699623942746275840/K_1_-_Part_3_-_Complete.jpg") center/100% fixed
+    background: rgb(var(--color-background)) url("https://cdn.discordapp.com/attachments/641780825213632536/699623942746275840/K_1_-_Part_3_-_Complete.jpg") center/100% fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Transparent banner - use together with background image */
