@@ -87,3 +87,9 @@ body {
 .hohDownload {
     display: none;
 }
+
+/* Changes scrollbar for whole page*/
+html {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(255, 111, 0) rgba(31, 35, 45, 0.95);
+}
