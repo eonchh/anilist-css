@@ -82,8 +82,3 @@ body {
 .site-theme-dark{
  --color-foreground: 21,31,46,.98;
 }
-
-/*Hides hint for seeing custom css if automail is running. */
-.nocss{
-    display:"none"
-}
