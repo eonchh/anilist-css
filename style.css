@@ -80,7 +80,7 @@ body {
 
 /* Site background color transparency */
 .site-theme-dark{
- --color-foreground: 21,31,46,.98;
+ --color-foreground: 21,31,46,.95;
 }
 
 /*Hides hoh download button*/
