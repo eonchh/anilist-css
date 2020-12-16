@@ -88,8 +88,21 @@ body {
     display: none;
 }
 
-/* Changes scrollbar for whole page*/
+/* Changes scrollbar for whole page (Firefox)*/
 html {
     scrollbar-width: thin;
     scrollbar-color: rgb(255, 111, 0) rgba(31, 35, 45, 0.95);
+}
+
+/* Chrome scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+    background: #01232d;
+}
+::-webkit-scrollbar-corner {
+    background: #01232d;
+}
+::-webkit-scrollbar-thumb {
+    background: #ff6f00;
+    -webkit-border-radius: 1ex;
 }
