@@ -52,3 +52,8 @@ body {
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
+
+/*Hides hoh download button*/
+.hohDownload {
+    display: none;
+}
