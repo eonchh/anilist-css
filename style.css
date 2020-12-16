@@ -80,7 +80,7 @@ body {
 
 /* Site background color transparency */
 .site-theme-dark{
- --color-foreground: 21,31,46,.95;
+ --color-foreground: 16,24,35,.90;
 }
 
 /*Hides hoh download button*/
@@ -115,4 +115,18 @@ html {
     color: rgb(255, 111, 0);
     margin-left: 300px;
     margin-right: 300px;
+}
+
+/* Changes top navbar's color. (Normal mode and hover)*/
+.site-theme-dark .nav-unscoped.transparent  {
+    background: rgb(var(--color-foreground));
+}
+.site-theme-dark .nav-unscoped.transparent:hover {
+    background: rgb(16, 24, 35, 0.99);
+}
+.site-theme-dark .nav-unscoped{
+    background: rgb(var(--color-foreground));
+}
+.site-theme-dark .nav-unscoped:hover{
+    background: rgb(16, 24, 35, 0.99);
 }
