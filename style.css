@@ -106,3 +106,13 @@ html {
     background: #ff6f00;
     -webkit-border-radius: 1ex;
 }
+
+/* Modifies load-more button */
+.load-more[data-v-6f203cf2]{
+    border-radius: 30px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 3rem;
+    color: rgb(255, 111, 0);
+    margin-left: 300px;
+    margin-right: 300px;
+}
