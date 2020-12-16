@@ -1,6 +1,6 @@
 /* Background image (change the URL to change the image) */
 body {
-    background: rgb(var(--color-background)) url("https://w.wallhaven.cc/full/5d/wallhaven-5d1e19.png") center/100% fixed
+    background: rgb(var(--color-background)) url("https://w.wallhaven.cc/full/39/wallhaven-398j69.png") center/100% fixed
 }
 
 /* Small avatar -> circle frame */
@@ -56,4 +56,22 @@ body {
 /*Hides hoh download button*/
 .hohDownload {
     display: none;
+}
+
+/* Changes scrollbar for whole page (Firefox)*/
+html {
+    scrollbar-width: thin;
+}
+
+/* Chrome scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+    background: #01232d;
+}
+::-webkit-scrollbar-corner {
+    background: #01232d;
+}
+::-webkit-scrollbar-thumb {
+    background: #ff6f00;
+    -webkit-border-radius: 1ex;
 }
