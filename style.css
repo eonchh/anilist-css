@@ -82,3 +82,8 @@ body {
 .site-theme-dark{
  --color-foreground: 21,31,46,.98;
 }
+
+/*Hides hoh download button*/
+.hohDownload {
+    display: none;
+}
