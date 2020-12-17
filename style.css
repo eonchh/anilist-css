@@ -130,3 +130,13 @@ html {
 .site-theme-dark .nav-unscoped:hover{
     background: rgb(16, 24, 35, 0.99);
 }
+
+/* Changes "Overview/Anime List/Manga List..." nav section. */
+.nav-wrap[data-v-5445dac8] {
+    background: none !important;
+}
+.nav[data-v-5445dac8] {
+    background: rgb(var(--color-foreground));
+    border-radius: 30px;
+    margin: 0 auto;
+}
