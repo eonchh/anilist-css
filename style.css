@@ -113,8 +113,8 @@ html {
     font-family: 'Brush Script MT', cursive;
     font-size: 3rem;
     color: rgb(255, 111, 0);
-    margin-left: 300px;
-    margin-right: 300px;
+    margin:auto;
+    max-width: 200px;
 }
 
 /* Changes top navbar's color. (Normal mode and hover)*/
