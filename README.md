@@ -3,8 +3,8 @@ Hoh's userscript (Automail) adds a bunch of cool features to anilist.co
 <br>One of them is the ability to add custom CSS to your profile.
 <br>**Scroll down for installation guide**
 
-Before:![Before](Screenshots/before.png) 
-After:![After](Screenshots/after.png)
+Before:![Before](Screenshots/beforeCSS.png) 
+After:![After](Screenshots/afterCSS.png)
 
 The option to add css can be found here: https://anilist.co/settings/apps (at the bottom of the page).
 
