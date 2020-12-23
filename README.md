@@ -48,7 +48,7 @@ Go to your profile, it should now have your own background image.
 
 If you only want a background image, and no extra effects, during <b>Part 3</b>, instead of copying all the code, only copy the following:
 <br>body {
-    background: rgb(var(--color-background)) url("https://w.wallhaven.cc/full/5d/wallhaven-5d1e19.png") center/100% fixed
+    background: rgb(var(--color-background)) url("https://w.wallhaven.cc/full/39/wallhaven-398j69.png") center/100% fixed
 }
 
 Everything should be working perfectly now.
