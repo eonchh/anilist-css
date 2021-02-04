@@ -84,9 +84,6 @@ html {
     -webkit-border-radius: 1ex;
 }
 
-
-
-
 /* Changes "Overview/Anime List/Manga List..." nav section. - Shorter navbar*/
 .nav-wrap[data-v-5445dac8] {
     background: rgb(var(--color-foreground));
