@@ -35,16 +35,17 @@ body {
 .favourite[data-v-1496db1c] {
     transition: transform .2s;
     border-radius: 20%;
+    position: static;
 }
 /* favourites section hover */
 .favourite[data-v-1496db1c]:hover {
     transform: scale(1.6);
+    position: static;
 }
 /*  favourites section bugfix */
 .favourites-wrap[data-v-1496db1c]{
     overflow: visible;
 }
-
 /* about section scrollbar */
 .user .about > div.content-wrap {
   scrollbar-width: thin;
