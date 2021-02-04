@@ -32,16 +32,16 @@ body {
 }
 
 /* favourites section */
-.favourite[data-v-45543a61] {
+.favourite[data-v-1496db1c] {
     transition: transform .2s;
     border-radius: 20%;
 }
 /* favourites section hover */
-.favourite[data-v-45543a61]:hover {
+.favourite[data-v-1496db1c]:hover {
     transform: scale(1.6);
 }
 /*  favourites section bugfix */
-.favourites-wrap[data-v-45543a61]{
+.favourites-wrap[data-v-1496db1c]{
     overflow: visible;
 }
 
