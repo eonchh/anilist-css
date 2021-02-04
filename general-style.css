@@ -1,6 +1,14 @@
 /* Background image (change the URL to change the image) */
 body {
-    background: rgb(var(--color-background)) url("https://w.wallhaven.cc/full/39/wallhaven-398j69.png") center/100% fixed
+    background: rgb(var(--color-background)) url("https://w.wallhaven.cc/full/39/wallhaven-398j69.png") center/100% fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Transparent banner - use together with background image */
+.banner[data-v-5445dac8] {
+    background-image: none !important;
+    background-color: rgb(36,37,56,0);
 }
 
 /* Small avatar -> circle frame */
