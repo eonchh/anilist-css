@@ -83,3 +83,37 @@ html {
     background: #ff6f00;
     -webkit-border-radius: 1ex;
 }
+
+
+
+
+/* Changes "Overview/Anime List/Manga List..." nav section. - Shorter navbar*/
+.nav-wrap[data-v-5445dac8] {
+    background: rgb(var(--color-foreground));
+    width: 65%;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+.nav[data-v-5445dac8] {
+    padding: 0px;
+}
+
+/* Re-aligns profile picture and name. Part of Shorter navbar*/
+.banner .container[data-v-5445dac8]
+{
+    max-width: 65%;
+}
+
+/* Re-aligns more stuff... Part of Shorter navbar*/
+.content.container {
+    max-width: 65%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.activity-feed-wrap[data-v-09492909] {
+    margin-left: 3%;
+}
+.stats-wrap[data-v-5c30286e]
+{
+    margin-left: 3%;
+}
